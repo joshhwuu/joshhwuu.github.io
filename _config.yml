@@ -129,14 +129,14 @@ navbar-var-length: false
 page-col: "#F8BBD0"        # Pastel Pink
 text-col: "41444B"        # Black
 link-col: "#FFD1DC"        # Pastel Peach
-hover-col: "#E1BEE7"       # Pastel Lavender
+hover-col: "#52575D"       # Pastel Lavender
 navbar-col: "#F8BBD0"      # Pastel Pink
 navbar-text-col: "41444B" # Black
 navbar-border-col: "#E1BEE7" # Pastel Lavender
 footer-col: "#F8BBD0"      # Pastel Pink
 footer-text-col: "#9E9E9E" # Gray
 footer-link-col: "#FFD1DC" # Pastel Peach
-footer-hover-col: "#E1BEE7" # Pastel Lavender
+footer-hover-col: "#52575D" # Pastel Lavender
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
