@@ -134,14 +134,14 @@ navbar-col: "#F8BBD0"      # Pastel Pink
 navbar-text-col: "#41444B" # Black
 navbar-border-col: "#E1BEE7" # Pastel Lavender
 footer-col: "#F8BBD0"      # Pastel Pink
-footer-text-col: "#41444B" # Gray
+footer-text-col: "#41444B" # Black
 footer-link-col: "#FFD1DC" # Pastel Peach
 footer-hover-col: "#52575D" # Pastel Lavender
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/vancouver-skyline.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
