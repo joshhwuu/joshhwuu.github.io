@@ -129,11 +129,11 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#F8BBD0"        # Pastel Pink
-text-col: "#E0E0E0"        # Light Gray
+text-col: "#000000"        # Black
 link-col: "#FFD1DC"        # Pastel Peach
 hover-col: "#E1BEE7"       # Pastel Lavender
 navbar-col: "#F8BBD0"      # Pastel Pink
-navbar-text-col: "#E0E0E0" # Light Gray
+navbar-text-col: "#000000" # Black
 navbar-border-col: "#E1BEE7" # Pastel Lavender
 footer-col: "#F8BBD0"      # Pastel Pink
 footer-text-col: "#9E9E9E" # Gray
