@@ -128,17 +128,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#2C3E50"        # Dark Pastel Blue
-text-col: "#ECF0F1"        # Light Gray
-link-col: "#3498DB"        # Pastel Teal
-hover-col: "#8E44AD"       # Pastel Purple
-navbar-col: "#2C3E50"      # Dark Pastel Blue
-navbar-text-col: "#ECF0F1" # Light Gray
-navbar-border-col: "#95A5A6" # Gray
-footer-col: "#2C3E50"      # Dark Pastel Blue
-footer-text-col: "#95A5A6" # Gray
-footer-link-col: "#3498DB" # Pastel Teal
-footer-hover-col: "#8E44AD" # Pastel Purple
+page-col: "#F8BBD0"        # Pastel Pink
+text-col: "#E0E0E0"        # Light Gray
+link-col: "#FFD1DC"        # Pastel Peach
+hover-col: "#E1BEE7"       # Pastel Lavender
+navbar-col: "#F8BBD0"      # Pastel Pink
+navbar-text-col: "#E0E0E0" # Light Gray
+navbar-border-col: "#E1BEE7" # Pastel Lavender
+footer-col: "#F8BBD0"      # Pastel Pink
+footer-text-col: "#9E9E9E" # Gray
+footer-link-col: "#FFD1DC" # Pastel Peach
+footer-hover-col: "#E1BEE7" # Pastel Lavender
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
