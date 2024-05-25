@@ -21,8 +21,7 @@ author: Joshua Wu
 
 navbar-links:
   About Me: "aboutme"
-  Google Summer of Code: ""
-  Author's home: "https://deanattali.com"
+  Google Summer of Code: "gsoc"
 
 ################
 # --- Logo --- #
