@@ -27,7 +27,7 @@ After some consideration, I found this [task](https://github.com/Rdatatable/data
 
 Following that experience, I learned that:
 - Being a good developer means more than just writing code, it also means having clear and effective communication.
-- Don't feel too intimidated by open source projects, the community is always willing to help!
+- I shouldn't feel too intimidated by open source projects, the community is always willing to help!
 - Large projects often contain big files, but if the code is readable and well documented, it makes future changes much easier.
 
 ### Applying to GSoC
