@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Google Summer of Code 2024 Initial Post
-subtitle: Exciting times!
-cover-img: 
-thumbnail-img: 
+subtitle: My experience applying to GSoC.
+cover-img: assets/img/header-gsoc.png
 share-img:
 gh-repo: Rdatatable/data.table
 gh-badge: [star]
