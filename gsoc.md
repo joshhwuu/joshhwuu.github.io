@@ -8,7 +8,7 @@ subtitle: Information about GSoC
 
 The Google Summer of code is a program that gives students the chance to contribute to over 150 of the world's most important open source organizations. Since the program's inception, more than 20,000 students have contributed from 116 countries to various open source software.
 
-I first discovered the Google Summer of Code program in October 2023, and after some months of research, decided to try my hand at a first contribution to "data.table". After a few contributions, I wrote out a proposal and submitted it via Google's portal. A few months later, I was told that my proposal was selected, and here we are. See more about my progress via this blog or see the code at: https://github.com/joshhwuu/gsoc-2024
+I first discovered the Google Summer of Code program in October 2023, and after some months of research, decided to try my hand at a first contribution to "data.table". After a few contributions, I wrote out a proposal and submitted it via Google's portal. A few months later, I was told that my proposal was selected, and here we are. See more about my progress via this blog or see the code at: [https://github.com/joshhwuu/gsoc-2024](https://github.com/joshhwuu/gsoc-2024)
 
 ### More About "data.table"
 "data.table" is an extension of base R's "data.frame", providing a high-performance alternative data library to handle large data. On top of this, "data.table" provides many syntax and feature enhancements, making it a vital package for many professionals in the data science community. 
@@ -23,9 +23,9 @@ The package's main advantages compared to base R's "data.frame" are listed below
 
 See more here:
 
-Github: https://github.com/Rdatatable/data.table
+Github: [https://github.com/Rdatatable/data.table](https://github.com/Rdatatable/data.table)
 
-CRAN: https://cran.r-project.org/web/packages/data.table/index.html
+CRAN: [https://cran.r-project.org/web/packages/data.table/index.html](https://cran.r-project.org/web/packages/data.table/index.html)
 
 ### About My Project
 
